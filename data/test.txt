@@ -1,0 +1,8 @@
+data/obj/trees_test/DJI_0143.JPG
+data/obj/trees_test/DJI_0147.JPG
+data/obj/trees_test/DJI_0153.JPG
+data/obj/trees_test/DJI_0159.JPG
+data/obj/trees_test/DJI_0304.JPG
+data/obj/trees_test/DJI_0310.JPG
+data/obj/trees_test/DJI_0320.JPG
+data/obj/trees_test/DJI_0336.JPG
